@@ -1,0 +1,41 @@
+primeiro cria uma nova pasta na area 
+
+inicializar o repositorio
+
+*/ como fazer 
+botao direito "git bash here"
+________________________________
+
+comandos no git
+$ git init
+____________________________
+como adicionar ao controle de vesao
+----------------
+git add + nome do arquivo... colocar o nome dentro daas aspás duplas
+
+_____________________________
+para adicionar mais de um arquivo
+git and .
+______________________________________
+
+
+------------ 
+aprendendo versionamento de software
+
+__________________________________
+
+como criar versoes do codigo com "commit"
+_____________________________________________
+
+como enviar alterações usando "git push"
+ esse codigo nao funcionara, pois temos que criar um repositorio no site do GITHUB.
+Apos criado, temos que copiar o link do repositorio. 
+
+Adicionaremos mais uma linha de codigo.
+
+git remote add + link do repositorio
+
+_____________________________________________________
+
+teste de segundo // terceiro commit
+
